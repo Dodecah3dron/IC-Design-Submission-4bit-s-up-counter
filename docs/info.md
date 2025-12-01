@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses 4 JK flip-flops to stroe and update the stae of 4 LEDs
 
 ## How to test
 
-Explain how to use your project
+Press the button to increment through all 16 bit / LED states (4-bit values)
+Example: 0111 -> 1000 -> 1001
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+1 Button, 4 LEDs
